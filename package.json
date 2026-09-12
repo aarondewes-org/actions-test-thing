@@ -1,3 +1,6 @@
 {
-    "name": "my-challenge"
+    "name": "my-challenge",
+    "scripts": {
+        "postinstall": "echo a"
+    }
 }
